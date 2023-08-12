@@ -1,11 +1,25 @@
-# tdd-with-mocha-starter-codeacademy
+# Mocha Starter
 
-Mocha: https://www.npmjs.com/package/mocha
+The project was done for educational purposes to learn more about Mocha.
 
-Based on: https://www.codecademy.com/courses/learn-javascript-unit-testing/projects/factorial
+Codeacademy Course. 
 
-Steps to test:
+## Prerequisites
 
-- npm i
+- Install npm
 
-- npm test
+## Instructions
+To install the dependencies
+```
+npm install
+```
+
+Run the tests
+```
+npm run test
+```
+
+## Stack
+
+* Javascript
+* Mocha
